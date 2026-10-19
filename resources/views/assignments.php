@@ -4,6 +4,7 @@
 
 @section('content')
     <h5>Assignments</h5>
+    
     <table class="table table-bordered table-sm">
         <thead class="table-light">
             <tr><th>Judul Tugas</th><th>Mata Kuliah</th><th>Deadline</th></tr>
