@@ -14,10 +14,9 @@
     <div class="row">
         <div class="col-3 border p-2">
             <ul class="nav flex-column">
-                <li class="nav-item"><a class="nav-link" href="/courses">Courses</a></li>
-                <li class="nav-item"><a class="nav-link" href="/students">Students</a></li>
-                <li class="nav-item"><a class="nav-link" href="/grades">Grades</a></li>
-                <li class="nav-item"><a class="nav-link" href="/assignments">Assignments</a></li>
+                <li class="nav-item"><a class="nav-link" href="/students">Mahasiswa</a></li>
+                <li class="nav-item"><a class="nav-link" href="/grades">Hasil Evaluasi</a></li>
+                <li class="nav-item"><a class="nav-link" href="/assignments">Tugas</a></li>
             </ul>
         </div>
         <div class="col-6 border p-2">
